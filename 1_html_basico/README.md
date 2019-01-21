@@ -42,27 +42,43 @@ Muestra el texto introducido entre las etiquetas de apertura y cierre, en la pes
 
 ### Etiquetas de texto ###
 
-***Etiquetas h***
-Son las etiquetas para titulos y subtitulos, se numeran en orden jerarquico de la `h1`a la `h6`. Se recomienda que no se salte la numeración al momento de usarlas, es decir,  si hay `h1`y`h3`  debe haber `h2`. **Debe haber solo una etiqueta `h1` por página.**
+***Etiquetas de texto***
+Es buena práctica que todos los texto vayan dentro de alguna etiqueta. 
 
 ```html
-<h1>Esto es un título</h1>
-<h2>Esto es un subtitulo</h2>
-<h3>Esto es un subtitulo</h3>
-<h4>Esto es un subtitulo</h4>
-<h5>Esto es un subtitulo</h5>
-<h6>Esto es un subtitulo</h6>
+<h1>Etiqueta para título</h1>
+<h2>Etiqueta de subtitulo</h2>
+<p>Etiqueta de parrafo</p>
+<span>span</span>
+<strong>Negritas</strong>
+<label>Label</label>
 ```
 
+***Etiqueta img***
+Se usa para integrar imagenes a nuestros sitios web. No tiene etiqueta de cierre y tiene un atributo especial `src` que es la ubicación de la imagen.
 
+```html
+<img src="imagen.jpg" />
+```
 
+***Etiqueta a***
+Usada para poner hipervinculos a una dirección en particular. Contiene el atributo `href`
+que contiene la url a donde seremos redireccionados.
 
+```html
+<a href="https://google.com"> texto </a>
+```
 
+***listas***
+Son estructuras que definen una lista, pueden ser ordenadas `ol` o desordenadas `ul`. las listas contienen items de lista.
 
+```html
+<ul>
+    <li>item de lista</li>
+    <li>item de lista</li>
+</ul>
+```
+***Quiero saber mas...***
 
-
-
-
-
-
+https://developer.mozilla.org/es/docs/Web/HTML
 
