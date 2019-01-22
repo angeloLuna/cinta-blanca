@@ -1,0 +1,6 @@
+
+---Etiquetas básicas de html---
+
+* Construye tu primer página web sobre "tu perfil". Incluye tu nombre como título, tu ocupación como subtítulo,  una descripción en un párrafo, y agrega tus links a redes sociales. 
+
+

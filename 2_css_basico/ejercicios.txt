@@ -1,0 +1,15 @@
+--- Estilos básicos ---
+
+Al website simple que construiste sobre tu perfil, agregale estilos de:
+
+* tipografía
+* color de fuente
+* tipo de fuente
+* ancho y alto
+* bordes
+
+--- margin y padding ---
+
+Intenta alinear la imagen usando margin y padding, alineala al centra, despues a la derecha y a la izquerda.
+
+distribuye los elementos del website vertical y horizontalmente de manera uniforme, usando margin y padding.
