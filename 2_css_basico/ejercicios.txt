@@ -10,6 +10,6 @@ Al website simple que construiste sobre tu perfil, agregale estilos de:
 
 --- margin y padding ---
 
-Intenta alinear la imagen usando margin y padding, alineala al centra, despues a la derecha y a la izquerda.
+Intenta alinear la imagen usando margin y padding, alineala al centro, despues a la derecha, y a la izquerda.
 
 distribuye los elementos del website vertical y horizontalmente de manera uniforme, usando margin y padding.
